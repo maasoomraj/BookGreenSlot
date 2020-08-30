@@ -45,6 +45,9 @@ Book Green Slot is an online appointment scheduling web-based application that h
 
 - Clone this repo to your local machine using `https://github.com/maasoomraj/BookGreenSlot.git`
 
+### Moving to Project Directory(for further step)
+-Type "cd BookGreenSlot" to move to cloned directory of BookGreenSlot. Now, perform next step.
+
 ### Setup
 
 > now install npm packages
